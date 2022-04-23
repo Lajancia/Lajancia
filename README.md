@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! My name is Soomin Hwang!
 
-<!--
-**Lajancia/Lajancia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Common Magazine Frontend De
+- 🌱 I’m currently learning Vue, Mysql, MongoDB .
+- 😄 Pronouns: My eternal Teacher, Google.
+- ⚡ Fun fact: I am also a Writer and Illustrator.
 
-Here are some ideas to get you started:
+### Certification
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200" height="200"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kie6974)](https://solved.ac/kie6974/)
+
