@@ -1,6 +1,6 @@
 ### Hello! My name is Soomin Hwang!
 
-- 🔭 I’m currently working on Common Magazine Frontend De
+- 🔭 I’m currently working on Common Magazine Frontend Intern
 - 🌱 I’m currently learning Vue, Mysql, MongoDB .
 - 😄 Pronouns: My eternal Teacher, Google.
 - ⚡ Fun fact: I am also a Writer and Illustrator.
