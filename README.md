@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I am also a Writer and Illustrator.
 
 ### Certification
-<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200" height="200"></img>
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100"></img>
 * ADsP
 
 ### Framework
