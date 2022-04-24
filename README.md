@@ -1,5 +1,5 @@
 ### Hello! My name is Soomin Hwang!
-
+[Visit the GitBlog!](https://lajancia.github.io/)
 - 🔭 I’m currently working on Common Magazine Frontend Intern
 - 🌱 I’m currently learning Vue, Mysql, MongoDB .
 - 😄 Pronouns: My eternal Teacher, Google.
