@@ -1,7 +1,7 @@
 ### Hello! My name is Soomin Hwang!
 [Visit the GitBlog!](https://lajancia.github.io/)
 <br>
-[Visit the Portfolio!](soominlab.com)
+[Visit the Portfolio!](http://soominlab.com)
 - 🔭 I’m currently studying vps.
 - 🌱 I’m currently learning Vue, Mysql, MongoDB.
 - 😄 Pronouns: My eternal Teacher, Google.
