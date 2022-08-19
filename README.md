@@ -19,7 +19,7 @@
 <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2021/07/pngegg-e1627207218334.png?fit=668%2C647&ssl=1" width="100" height="100"></img><img src="https://img.informer.com/icons_mac/png/128/483/483727.png" width="100" height="100"></img>
 
 ### Language
-<img src="https://www.seekpng.com/png/full/70-701896_python-transparent-background-graphic-design.png" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100"><img src="https://www.bcsoft.net/wp-content/uploads/2020/03/javalogo.png" width="100" height="100">
+<img src="https://www.seekpng.com/png/full/70-701896_python-transparent-background-graphic-design.png" width="100" height="100"><img src="https://cdn1.iconfinder.com/data/icons/round-icons-vol-2/512/Code_javascript_development-512.png" width="100" height="100"><img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="100" height="100">
 
 
 ### Baekjoon & GitHub Status
