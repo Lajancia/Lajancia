@@ -2,8 +2,8 @@
 [Visit the GitBlog!](https://lajancia.github.io/)
 <br>
 [Visit the Portfolio!](http://soominlab.com)
-- 🔭 I’m currently studying vps.
-- 🌱 I’m currently learning Vue, Mysql, MongoDB.
+- 🔭 I’m currently working as Web developer
+- 🌱 I’m currently learning React.js, Mysql, MongoDB.
 - 😄 Pronouns: My eternal Teacher, Google.
 - ⚡ Fun fact: I am also a Writer and Illustrator.
 
