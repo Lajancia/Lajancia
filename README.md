@@ -1,5 +1,5 @@
 ### Hello! My name is Soomin Hwang!
-[Visit the Blog!]([https://lajancia.github.io/](https://soomins.tistory.com/))
+[Visit the Blog!](https://soomins.tistory.com/)
 <br>
 [Visit the Portfolio!](http://soominlab.com)
 - 🔭 I’m currently working as Web developer
