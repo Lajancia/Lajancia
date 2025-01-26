@@ -2,8 +2,8 @@
 [Visit the Blog!](https://soomins.tistory.com/)
 <br>
 [Visit the Portfolio!](http://soominlab.com)
-- 🔭 I’m currently working as Web developer
-- 🌱 I’m currently learning React.js, Mysql, MongoDB.
+- 🔭 I’m currently working as Frontend developer
+- 🌱 I’m currently using Next.js.
 - 😄 Pronouns: My eternal Teacher, Google.
 - ⚡ Fun fact: I am also a Writer and Illustrator.
 
