@@ -1,30 +1,62 @@
-### Hello! My name is Soomin Hwang!
-[Visit the Blog!](https://soomins.tistory.com/)
-<br>
-[Visit the Portfolio!](https://soominlab.com)
-- 🔭 I’m currently working as Frontend developer
-- 🌱 I’m currently using Next.js.
-- 😄 Pronouns: My eternal Teacher, Google.
-- ⚡ Fun fact: I am also a Writer and Illustrator.
+# Hi, I'm Soomin
 
-### Certification
-<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" height="100"></img>
-* ADsP
+**DevOps-minded Frontend Developer**  
+React / Next.js / TypeScript / CI/CD / E2E Testing / API Collaboration
 
-### Framework
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2Kt3JRhp1mlWw4VXCTwNqQcf9QzP7GD2Cg&usqp=CAU" width="150" height="100"></img><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYZZEliSvgOj37jJ_2jSYoQm2mXITpFGgjqbgobvkzpTk4dKWt8rQJFIjzPkAljM4u7M&usqp=CAU" width="100" height="100"></img>
+I build frontend products with an eye for release reliability, testing, and developer workflow.  
+My core is React and Next.js, but I enjoy working across product UI, API boundaries, CI/CD pipelines, and quality automation.
 
+Currently exploring deeper backend/API work with Django while keeping frontend engineering as my main strength.
 
-### DB
-<img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2021/07/pngegg-e1627207218334.png?fit=668%2C647&ssl=1" width="100" height="100"></img><img src="https://img.informer.com/icons_mac/png/128/483/483727.png" width="100" height="100"></img>
+## What I Work On
 
-### Language
-<img src="https://www.seekpng.com/png/full/70-701896_python-transparent-background-graphic-design.png" width="100" height="100"><img src="https://cdn1.iconfinder.com/data/icons/round-icons-vol-2/512/Code_javascript_development-512.png" width="100" height="100"><img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="100" height="100">
+- Frontend product development with React, Next.js, TypeScript, MUI, React Query, and React Hook Form
+- CI/CD and release automation with Docker, Jenkins, GitHub Actions, and GitLab
+- E2E and frontend testing workflows with Cypress and MSW
+- DevSecOps and quality visibility with SonarQube, Snyk, ZAP, and Grafana
+- API collaboration and backend-adjacent work with Django, Java Spring Boot, REST APIs, and MariaDB
+- Data visualization and 3D web interfaces with ApexCharts, Molstar, RDKit, Three.js, and React Three Fiber
 
+## Highlights
 
-### Baekjoon & GitHub Status
+- Reduced manual QA time by **80%** by introducing Cypress E2E automation into a release workflow
+- Reduced frontend deployment time from **15 minutes to under 3 minutes** through Docker and Next.js build optimization
+- Contributed to a smart factory monitoring system that helped reduce AOI defect rate by **20%**
+- Built and maintained frontend features for AI drug discovery, renewable energy investment, and manufacturing monitoring products
+- Worked in international environments with English communication experience across Serbia-based stakeholders and a Milan-based startup
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kie6974)](https://solved.ac/kie6974/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lajancia)](https://github.com/Lajancia/github-readme-stats)
+## Tech Stack
 
+**Frontend**  
+React.js · Next.js · TypeScript · MUI · React Query · React Hook Form · Vue.js · Vuetify
 
+**DevOps / QA**  
+Docker · Docker Compose · Jenkins · GitHub Actions · GitLab · Cypress · MSW · SonarQube · Snyk · ZAP · Grafana
 
+**Backend / API**  
+Django · Java Spring Boot · MyBatis · MariaDB · REST API · API Integration
+
+**Visualization / 3D**  
+Molstar · RDKit · ApexCharts · Three.js · React Three Fiber · Blender
+
+## Selected Projects
+
+### Personal Website
+
+Next.js-based personal website with 3D GLB model rendering, interactive React Three Fiber scenes, Jenkins deployment, Docker Compose, and Grafana monitoring.
+
+Website: https://soominlab.com/ko
+
+### Local AI Assistant / LLM Gateway
+
+Personal AI environment using LiteLLM as a gateway for multiple LLM endpoints, including OpenClaw, Ollama, and OpenRouter.
+
+## Links
+
+- Website: https://soominlab.com/ko
+- Tech Blog: https://soomins.tistory.com/
+
+## Direction
+
+I'm interested in frontend roles where product development, DevOps, testing, and API collaboration meet.  
+Long-term, I want to grow as an engineer who can build reliable product interfaces while understanding the systems that support them.
