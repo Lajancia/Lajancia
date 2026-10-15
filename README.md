@@ -45,7 +45,7 @@ Molstar · RDKit · ApexCharts · Three.js · React Three Fiber · Blender
 
 Next.js-based personal website with 3D GLB model rendering, interactive React Three Fiber scenes, Jenkins deployment, Docker Compose, and Grafana monitoring.
 
-Website: https://soominlab.com/ko
+Website: https://soominlab.com/
 
 ### Local AI Assistant / LLM Gateway
 
@@ -53,7 +53,7 @@ Personal AI environment using LiteLLM as a gateway for multiple LLM endpoints, i
 
 ## Links
 
-- Website: https://soominlab.com/ko
+- Website: https://soominlab.com/
 - Tech Blog: https://soomins.tistory.com/
 
 ## Direction
